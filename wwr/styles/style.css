@@ -37,6 +37,7 @@ nav a {
 }
 nav li{
     list-style-type: none;
+    margin: 0;
 }
 
 
@@ -44,6 +45,7 @@ nav li{
     text-decoration: none;
     text-align: center;
     color: #cfe3ec;
+    padding: 10px;
     
     }
 
@@ -93,11 +95,14 @@ footer{
     text-decoration: none;
 
 }
+
+
 #info{
     font-size: .5em;
     color: #41678d;
-    text-align: left;
+    
 }
+
 
 .socialmedia {
     padding: 10px;
